@@ -41,9 +41,11 @@ To get a local copy up and running follow these simple example steps.
 Contributions, issues, and feature requests are welcome!
 
 - Feel free to check the issues page.
-- Show your support
+
+ ## Show your support
 
 - Give a ⭐️ if you like this project!
-- 📝 License
+
+## 📝 License
 
 - This project is MIT licensed.
