@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 Gilbmet Adungo
 
-   - [GitHub: @Gilbmet](https://github.com/Gilbmet)
+   - GitHub: @Gilbmet(https://github.com/Gilbmet)
    - Twitter: ``@Gilbmet_adungo``
    - LinkedIn: ``LinkedIn``
 
