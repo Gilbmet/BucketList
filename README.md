@@ -15,17 +15,17 @@ Bucket List is a application that has been created by React Native and runs on b
 
 To get a local copy up and running follow these simple example steps.
 
-Clone the repo with https://github.com/gilbmet/BucketList.git
+   a) Clone the repo with https://github.com/gilbmet/BucketList.git
 
-Run cd BucketList to access app.
+   b) Run cd BucketList to access app.
 
-Run npm install to install dependencies.
+   c) Run npm install to install dependencies.
 
-Run npx react-native start to start the application.
+   d) Run npx react-native start to start the application.
 
-Run npx react-native run-android to run the app on Android Device/Emulator.
+   e) Run npx react-native run-android to run the app on Android Device/Emulator.
 
-Run npx react-native run-ios to run the app on iOS Device/Emulator.
+   f) Run npx react-native run-ios to run the app on iOS Device/Emulator.
 
 ## Authors
 
