@@ -8,8 +8,8 @@ Bucket List is a application that has been created by React Native and runs on b
 
 ## Built With
 
-    Javascript
-    React-native
+   * Javascript
+   * React-native
 
 ## Getting Started
 
