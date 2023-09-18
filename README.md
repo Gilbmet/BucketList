@@ -8,8 +8,8 @@ Bucket List is a application that has been created by React Native and runs on b
 
 ## Built With
 
-   * Javascript
-   * React-native
+   1. Javascript
+   2. React-native
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the repo with https://github.com/gilbmet/BucketList.git
 
-Run cd Jibambe to access app.
+Run cd BucketList to access app.
 
 Run npm install to install dependencies.
 
