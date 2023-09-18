@@ -41,8 +41,9 @@ To get a local copy up and running follow these simple example steps.
 👤 Gilbmet Adungo
 
    - GitHub: <a href="https://github.com/Gilbmet" style="color: blue;">@Gilbmet</a>
-   - Twitter: (@Gilbmet_adungo)
-   - LinkedIn: (LinkedIn)
+   - Twitter: <a href="https://twitter.com/Gilbmet_adungo" style="color: blue;">@Gilbmet_adungo</a>
+   - LinkedIn: <a href="https://www.linkedin.com/in/www.linkedin.com/in/gilbmet-adungo-8999b8259" style="color: blue;">LinkedIn</a>
+
 
 ## 🤝 Contributing
 
