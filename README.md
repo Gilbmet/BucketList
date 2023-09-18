@@ -15,7 +15,7 @@ Bucket List is a application that has been created by React Native and runs on b
 
 To get a local copy up and running follow these simple example steps.
 
-   a). Clone the repo with `https://github.com/gilbmet/BucketList.git
+   a). Clone the repo with ```https://github.com/gilbmet/BucketList.git```
 
    b). Run cd BucketList to access app.
 
