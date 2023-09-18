@@ -17,15 +17,15 @@ To get a local copy up and running follow these simple example steps.
 
    a). Clone the repo with ```https://github.com/gilbmet/BucketList.git```
 
-   b). Run cd BucketList to access app.
+   b). Run ```cd BucketList``` to access app.
 
-   c). Run npm install to install dependencies.
+   c). Run ```npm install``` to install dependencies.
 
-   d). Run npx react-native start to start the application.
+   d). Run ```npx react-native start``` to start the application.
 
-   e). Run npx react-native run-android to run the app on Android Device/Emulator.
+   e). Run ```npx react-native run-android``` to run the app on Android Device/Emulator.
 
-   f) Run npx react-native run-ios to run the app on iOS Device/Emulator.
+   f) Run ```npx react-native run-ios``` to run the app on iOS Device/Emulator.
 
 ## Authors
 
