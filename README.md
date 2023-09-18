@@ -10,6 +10,7 @@ Bucket List is a application that has been created by React Native and runs on b
 
    1. Javascript
    2. React-native
+   3. MongoDB (storage)
 
 ## Getting Started
 
