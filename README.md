@@ -12,6 +12,14 @@ Bucket List is a application that has been created by React Native and runs on b
    2. React-native
    3. MongoDB (storage)
 
+### Prerequisites
+
+Before you begin, make sure you have the following software and tools installed:
+
+- Node.js
+- npm (Node Package Manager)
+- MongoDB (for database storage)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
