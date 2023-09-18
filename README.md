@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 Gilbmet Adungo
 
-   - GitHub: ''@Gilbmet
-   - Twitter: @Gilbmet_adungo
-   - LinkedIn: LinkedIn
+   - GitHub: ```@Gilbmet
+   - Twitter: ```@Gilbmet_adungo
+   - LinkedIn: ```LinkedIn
 
 ## 🤝 Contributing
 
