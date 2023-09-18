@@ -11,7 +11,7 @@ Bucket List is a application that has been created by React Native and runs on b
     Javascript
     React-native
 
-#### Getting Started
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
@@ -27,7 +27,7 @@ Run npx react-native run-android to run the app on Android Device/Emulator.
 
 Run npx react-native run-ios to run the app on iOS Device/Emulator.
 
-#### Authors
+## Authors
 
 👤 Gilbmet Adungo
 
@@ -35,7 +35,7 @@ Run npx react-native run-ios to run the app on iOS Device/Emulator.
     Twitter: @gilbmet_adungo
     LinkedIn: LinkedIn
 
-#### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
