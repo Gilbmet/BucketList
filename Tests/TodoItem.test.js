@@ -1,11 +1,11 @@
 import React from 'react';
 import { render } from '@testing-library/react-native';
-import TodoItem from './TodoItem'; // Import the component you want to test
+import TodoItem from './TodoItem';
 
 describe('TodoItem component', () => {
   it('renders correctly', () => {
-    // Write your test case here
+    const { getByText } = render(<TodoItem text="Example Todo" />);
+    const todoText = getByText('Example Todo');
+    expect(todoText).toBeTruthy();
   });
-
-  // Add more test cases as needed
 });
