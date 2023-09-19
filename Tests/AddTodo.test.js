@@ -1,12 +1,21 @@
 import React from 'react';
-import { render } from '@testing-library/react-native';
-import AddTodo from './AddTodo'; // Import the component you want to test
+import { render, fireEvent } from '@testing-library/react-native';
+import AddTodo from './AddTodo';
 
 describe('AddTodo component', () => {
   it('renders correctly', () => {
-    // Write your test case here
-    // For example, render the component and make assertions about its rendering
+    const { getByText } = render(<AddTodo />);
+    const addButton = getByText('Add Todo');
+    expect(addButton).toBeTruthy();
   });
 
-  // Add more test cases as needed
+  it('calls the provided addTodo function when the button is clicked', () => {
+    const addTodoMock = jest.fn();
+    const { getByText } = render(<AddTodo addTodo={addTodoMock} />);
+    const addButton = getByText('Add Todo');
+
+    fireEvent.press(addButton);
+
+    expect(addTodoMock).toHaveBeenCalled();
+  });
 });
