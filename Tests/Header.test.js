@@ -1,11 +1,11 @@
 import React from 'react';
 import { render } from '@testing-library/react-native';
-import Header from './Header'; // Import the component you want to test
+import Header from './Header';
 
 describe('Header component', () => {
   it('renders correctly', () => {
-    // Write your test case here
+    const { getByText } = render(<Header title="My Todo App" />);
+    const titleElement = getByText('My Todo App');
+    expect(titleElement).toBeTruthy();
   });
-
-  // Add more test cases as needed
 });
