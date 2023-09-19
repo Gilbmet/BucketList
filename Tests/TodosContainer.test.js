@@ -1,11 +1,11 @@
 import React from 'react';
 import { render } from '@testing-library/react-native';
-import TodosContainer from './TodosContainer'; // Import the component you want to test
+import TodosContainer from './TodosContainer';
 
 describe('TodosContainer component', () => {
   it('renders correctly', () => {
-    // Write your test case here
+    const { getByTestId } = render(<TodosContainer />);
+    const todosContainer = getByTestId('todos-container');
+    expect(todosContainer).toBeTruthy();
   });
-
-  // Add more test cases as needed
 });
